@@ -1,4 +1,4 @@
-👋 Hey there! I'm an enthusiastic 21-year-old Application Development student at Karel de Grote University of Applied Sciences and Arts. I'm passionate about building creative solutions and evolving my skills in software development.
+👋 Hey there! I'm an enthusiastic 22-year-old Application Development student at Karel de Grote University of Applied Sciences and Arts. I'm passionate about building creative solutions and evolving my skills in software development.
 
 🎒 My journey so far has involved working on a variety of school projects, but I also love diving into personal side projects. One of my favorite creations is my portfolio website https://zacharyvds.be/, where you can explore my ongoing projects and read my thoughts on different development topics through my so called "Development Journey" blog.
 
